@@ -3,6 +3,7 @@ ls-github-repositories
 ======================
 
 ls-github-repositories prints all name of public git repositories under https://github.com/${USER}/.
+
 This is a simple bash script.
 
 How to use?
